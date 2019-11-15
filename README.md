@@ -1,4 +1,4 @@
-# Survival-Analysis
+# Survival Analysis: Intuition & Implementation in Python
 ### Quick Implementation in python
 
 [Link to the article](https://towardsdatascience.com/survival-analysis-intuition-implementation-in-python-504fde4fcf8e)
